@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tharindu Athukorala\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\React Native\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_ea68f58f9f4575f6ff0872687a48f7320e4950ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tharindu Athukorala\.android\build-cache\88d0160f0713c8c18ed9eb0e55690d25fab87c59\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\React Native\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\classes_5ed1f78705be92c69d5396f4b646ebc654cf643c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tharindu Athukorala\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\React Native\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_1900c98f6667cb56f6f59570fc82cbb7cf41337a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tharindu Athukorala\.android\build-cache\e71146cf0f3bb78dac2e59117a5fde08a4574cdc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\React Native\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\classes_dc743a4da98b2d63bea0aed005f438710d9b0c74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tharindu Athukorala\.android\build-cache\d4f9a4ae63f95c6e5ce8f494b0142ca34c5fe126\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\React Native\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\classes_fff20602ac1af91b724c0dda0b2cd63896d8d82d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tharindu Athukorala\.android\build-cache\91a7719024908c88f0d43497883a935f5e397718\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\React Native\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\classes_358fa04d7f9af3902e1319f2e0e1194defcd3dae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tharindu Athukorala\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\React Native\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_bea296849161ae828935a15c04b820c6c8a068b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tharindu Athukorala\.android\build-cache\b8c7a9a5299ce3158f68bdd15f5de1e3cd6146bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="C:\React Native\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\classes_6f5a258e02c6cd69534c1f6be07860acf40e1612.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tharindu Athukorala\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\React Native\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_210a5948b4e7566d6171f269c96b174ae52d97dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tharindu Athukorala\.android\build-cache\15bef5ef91a0272fbb3f59a4ca1c433635f9f11a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\React Native\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\classes_94ada68fe36ba96b91dd7d435d8ebdc416a5d930.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tharindu Athukorala\.android\build-cache\0a69d6c8e926d9ecfd2818137463cc261777d209\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\React Native\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\classes_9aab58f54e03a0b83d103c3a60ac200e59722a06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tharindu Athukorala\.android\build-cache\b8c7a9a5299ce3158f68bdd15f5de1e3cd6146bf\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\React Native\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_e694a03bf3416abfab76df8683bb128fd37cfa4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tharindu Athukorala\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\React Native\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_1086c505f4cb299f9bf12e7e66b5360508407dc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tharindu Athukorala\.android\build-cache\34598d1fb5a2943e2435c72569e95ad2dd557ea3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\React Native\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\classes_ac413e09257d48f6c911a98e60ee0b1270401307.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tharindu Athukorala\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\React Native\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_f2ff19a221d6a5835f5f65843780b6074f731ab0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tharindu Athukorala\.android\build-cache\648c92575d8dd8206ee3336882e07b7ddd32128f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\React Native\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\classes_9e85f362c969ed78904db0eefb15a8cb8a5e56a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tharindu Athukorala\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\React Native\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\common-1.0.0_e65014cf230cb3235b997459ad8e4dc8c243a691.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tharindu Athukorala\.android\build-cache\bfa842963d5bc2818af9c4cc4797ed1e82c59622\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\React Native\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\classes_dd38925f8909d2ea5ca32e1ce0b11a29583fdc74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tharindu Athukorala\.android\build-cache\762517df129440ebe4e21e5b63b4ceffb24dd32d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\React Native\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\classes_6a1c42026aaa4c5715b29b30f381308c9922ebf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tharindu Athukorala\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\React Native\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_902d12e457ca7cf88c58c19c6f10c5cf9dd25c18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tharindu Athukorala\.android\build-cache\eeed00faf6ebae32914548b34ccd01c2ba603585\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\React Native\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\classes_4f8b3588ccf1ac0b6dfb6b2812f980f5f689b189.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tharindu Athukorala\.android\build-cache\65891c0b2255a244a5bb095bbc94579f77f45efe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\React Native\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\classes_d3130a428cc9e3b12dcd3806cb73c48031affe7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tharindu Athukorala\.android\build-cache\fd3f528aa8cc36b9670900c0df854a7cd06e841f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\React Native\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\classes_81b384d142df7d6c15933aa208079b1c092d831a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tharindu Athukorala\.android\build-cache\2818d10e5fb20cf9ef16429cee76a7f4c7b8f39b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\React Native\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\classes_fce8790f2f84ad908f8f01345c9db0dd8d21e8f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tharindu Athukorala\.android\build-cache\fe7a0a37f0095d2c920c5003d660d25daf1053d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\React Native\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\classes_fa81083ea1396778fc66bb13943bcf59973b6525.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tharindu Athukorala\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\React Native\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_1aa900b08be046ed0345fd93d03eadd4ac5cbebb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tharindu Athukorala\.android\build-cache\8b3ad718bed187acb4473a9cbf8051cf046345a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\React Native\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\classes_0881634e4b829c58d433dca92e198df97c5e3018.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tharindu Athukorala\.android\build-cache\5913eba43b85d2a8191f271132d6eb70dac80c04\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\React Native\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\classes_84929150eebfbafa2643d988c04de487f9805892.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tharindu Athukorala\.android\build-cache\9bdb1b34a982f1c1a159c6f20f36023c2714e4d4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\React Native\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\classes_f0bb16a77a36d0ea9dc1ec0378ba1845ca53cf2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tharindu Athukorala\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\React Native\AwesomeProject\android\app\build\intermediates\pre-dexed\debug\common-1.0.0_0dfb012d6f4c1a9a170fb46ebe184bc02d0d4187.jar" />
+    </item>
+
+</items>

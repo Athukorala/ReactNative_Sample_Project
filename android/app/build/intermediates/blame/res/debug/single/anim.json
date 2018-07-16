@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\React Native\\AwesomeProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_exit.xml",
+        "source": "C:\\Users\\Tharindu Athukorala\\.android\\build-cache\\bfa842963d5bc2818af9c4cc4797ed1e82c59622\\output\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "C:\\React Native\\AwesomeProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Tharindu Athukorala\\.android\\build-cache\\bfa842963d5bc2818af9c4cc4797ed1e82c59622\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\React Native\\AwesomeProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_slide_down.xml",
+        "source": "C:\\Users\\Tharindu Athukorala\\.android\\build-cache\\b8c7a9a5299ce3158f68bdd15f5de1e3cd6146bf\\output\\res\\anim\\catalyst_slide_down.xml"
+    },
+    {
+        "merged": "C:\\React Native\\AwesomeProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Tharindu Athukorala\\.android\\build-cache\\bfa842963d5bc2818af9c4cc4797ed1e82c59622\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\React Native\\AwesomeProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Tharindu Athukorala\\.android\\build-cache\\bfa842963d5bc2818af9c4cc4797ed1e82c59622\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\React Native\\AwesomeProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Tharindu Athukorala\\.android\\build-cache\\bfa842963d5bc2818af9c4cc4797ed1e82c59622\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\React Native\\AwesomeProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Tharindu Athukorala\\.android\\build-cache\\bfa842963d5bc2818af9c4cc4797ed1e82c59622\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\React Native\\AwesomeProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Tharindu Athukorala\\.android\\build-cache\\bfa842963d5bc2818af9c4cc4797ed1e82c59622\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\React Native\\AwesomeProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_fade_in.xml",
+        "source": "C:\\Users\\Tharindu Athukorala\\.android\\build-cache\\b8c7a9a5299ce3158f68bdd15f5de1e3cd6146bf\\output\\res\\anim\\catalyst_fade_in.xml"
+    },
+    {
+        "merged": "C:\\React Native\\AwesomeProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_push_up_out.xml",
+        "source": "C:\\Users\\Tharindu Athukorala\\.android\\build-cache\\b8c7a9a5299ce3158f68bdd15f5de1e3cd6146bf\\output\\res\\anim\\catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "C:\\React Native\\AwesomeProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_slide_up.xml",
+        "source": "C:\\Users\\Tharindu Athukorala\\.android\\build-cache\\b8c7a9a5299ce3158f68bdd15f5de1e3cd6146bf\\output\\res\\anim\\catalyst_slide_up.xml"
+    },
+    {
+        "merged": "C:\\React Native\\AwesomeProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Tharindu Athukorala\\.android\\build-cache\\bfa842963d5bc2818af9c4cc4797ed1e82c59622\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\React Native\\AwesomeProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_push_up_in.xml",
+        "source": "C:\\Users\\Tharindu Athukorala\\.android\\build-cache\\b8c7a9a5299ce3158f68bdd15f5de1e3cd6146bf\\output\\res\\anim\\catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "C:\\React Native\\AwesomeProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_enter.xml",
+        "source": "C:\\Users\\Tharindu Athukorala\\.android\\build-cache\\bfa842963d5bc2818af9c4cc4797ed1e82c59622\\output\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "C:\\React Native\\AwesomeProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Tharindu Athukorala\\.android\\build-cache\\bfa842963d5bc2818af9c4cc4797ed1e82c59622\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\React Native\\AwesomeProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_fade_out.xml",
+        "source": "C:\\Users\\Tharindu Athukorala\\.android\\build-cache\\b8c7a9a5299ce3158f68bdd15f5de1e3cd6146bf\\output\\res\\anim\\catalyst_fade_out.xml"
+    },
+    {
+        "merged": "C:\\React Native\\AwesomeProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Tharindu Athukorala\\.android\\build-cache\\bfa842963d5bc2818af9c4cc4797ed1e82c59622\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\React Native\\AwesomeProject\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Tharindu Athukorala\\.android\\build-cache\\bfa842963d5bc2818af9c4cc4797ed1e82c59622\\output\\res\\anim\\abc_slide_in_top.xml"
+    }
+]
