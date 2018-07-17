@@ -25,23 +25,23 @@ class App extends Component {
             <Eux>
                 <Header title="Friends List"/>
                 <ScrollView>
-                    <FriendsList name="Tharindu Athukorala" status="Doing what you like will always keep you happy . ."
+                    <FriendsList friendViewHandler={this.props.friendViewHandler} name="Tharindu Athukorala" status="Doing what you like will always keep you happy . ."
                                  pic={pic1}/>
-                    <FriendsList name="Dananjaya Perera" status="Doing what you like will always keep you happy . ."
+                    <FriendsList friendViewHandler={this.props.friendViewHandler}  name="Dananjaya Perera" status="Doing what you like will always keep you happy . ."
                                  pic={pic2}/>
-                    <FriendsList name="Venul Sachinthra" status="Doing what you like will always keep you happy . ."
+                    <FriendsList friendViewHandler={this.props.friendViewHandler}  name="Venul Sachinthra" status="Doing what you like will always keep you happy . ."
                                  pic={pic3}/>
-                    <FriendsList name="Methmal Jayasinghe" status="Doing what you like will always keep you happy . ."
+                    <FriendsList friendViewHandler={this.props.friendViewHandler}  name="Methmal Jayasinghe" status="Doing what you like will always keep you happy . ."
                                  pic={pic4}/>
-                    <FriendsList name="Nisal Manjitha" status="Doing what you like will always keep you happy . ."
+                    <FriendsList friendViewHandler={this.props.friendViewHandler}  name="Nisal Manjitha" status="Doing what you like will always keep you happy . ."
                                  pic={pic5}/>
-                    <FriendsList name="Harsha Kaushalya" status="Doing what you like will always keep you happy . ."
+                    <FriendsList friendViewHandler={this.props.friendViewHandler}  name="Harsha Kaushalya" status="Doing what you like will always keep you happy . ."
                                  pic={pic6}/>
-                    <FriendsList name="Kisandu Vidujaya" status="Doing what you like will always keep you happy . ."
+                    <FriendsList friendViewHandler={this.props.friendViewHandler}  name="Kisandu Vidujaya" status="Doing what you like will always keep you happy . ."
                                  pic={pic7}/>
-                    <FriendsList name="Yasiru Gimahani" status="Doing what you like will always keep you happy . ."
+                    <FriendsList friendViewHandler={this.props.friendViewHandler}  name="Yasiru Gimahana" status="Doing what you like will always keep you happy . ."
                                  pic={pic8}/>
-                    <FriendsList name="Ranmina Amaranath" status="Doing what you like will always keep you happy . ."
+                    <FriendsList friendViewHandler={this.props.friendViewHandler}  name="Ranmina Amaranath" status="Doing what you like will always keep you happy . ."
                                  pic={pic2}/>
                 </ScrollView>
 

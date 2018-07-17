@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
-import { Content, List, ListItem, Left, Body, Right, Thumbnail, Text } from 'native-base';
+import {Content, List, ListItem, Left, Body, Right, Thumbnail, Text, View} from 'native-base';
 export default class ListAvatarExample extends Component {
     render() {
         return (
 
-                    <List style={{marginBottom:5}}>
-                        <ListItem avatar>
+                    <List style={{marginBottom:5}} onPress={this.props.friendViewHandler}>
+                        <ListItem avatar  onPress={this.props.friendViewHandler}>
                             <Left>
-                                <Thumbnail source={this.props.pic} />
+                                <Thumbnail source={this.props.pic} onPress={this.props.friendViewHandler}/>
                             </Left>
                             <Body>
                             <Text>{this.props.name}</Text>
@@ -18,7 +18,6 @@ export default class ListAvatarExample extends Component {
                             </Right>
                         </ListItem>
                     </List>
-
 
         );
     }

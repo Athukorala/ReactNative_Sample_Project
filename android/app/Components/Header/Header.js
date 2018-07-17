@@ -6,7 +6,7 @@ export default class HeaderMultipleIconExample extends Component {
                 <Header style={{backgroundColor:'#00B386'}}>
                     <Left>
                         <Button transparent>
-                            <Icon name='arrow-back' />
+                            <Icon name='menu' />
                         </Button>
                     </Left>
                     <Body>

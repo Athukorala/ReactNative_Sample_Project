@@ -5,6 +5,7 @@ import MainLayout from "./android/app/Containers/Layout/MainLayout";
 import Eux from "./android/app/hoc/Eux/Eux";
 import FriendsList from "./android/app/Components/FriendsList/FriendsList";
 import FriendsLayout from "./android/app/Containers/FriendsLayout/FriendsLayout";
+import FriendViewer from "./android/app/Components/FriendViewer/FriendViewer";
 
 
 export default class App extends Component {
@@ -12,14 +13,16 @@ export default class App extends Component {
     state={
         Login:true,
         socialAccount:false,
-        socialDetails:false
+        socialDetails:false,
+        friendView:false
     };
 
     loginHandler = () => {
         this.setState({
             Login:true,
             socialAccount:false,
-            socialDetails:false
+            socialDetails:false,
+            friendView:false
         })
     };
 
@@ -27,7 +30,8 @@ export default class App extends Component {
         this.setState({
             Login:false,
             socialAccount:true,
-            socialDetails:false
+            socialDetails:false,
+            friendView:false
         })
     };
 
@@ -35,10 +39,19 @@ export default class App extends Component {
         this.setState({
             Login:false,
             socialAccount:false,
-            socialDetails:true
+            socialDetails:true,
+            friendView:false
         })
     };
 
+    friendViewHandler = () => {
+        this.setState({
+            Login:false,
+            socialAccount:false,
+            socialDetails:false,
+            friendView:true
+        })
+    };
 
     render() {
 
@@ -50,7 +63,9 @@ export default class App extends Component {
         }else if(this.state.socialAccount){
             show=<MainLayout backHandler={this.loginHandler} socialAccountDetailsHandler={this.socialAccountDetailsHandler}/>
         }else if(this.state.socialDetails){
-            show=<FriendsLayout/>
+            show=<FriendsLayout friendViewHandler={this.friendViewHandler}/>
+        }else if(this.state.friendView){
+            show=<FriendViewer socialAccountHandler={this.socialAccountHandler}/>
         }
 
         return (

@@ -4,7 +4,7 @@ import {Button, Container, Content, Form, Icon, Input, Item, Picker, Text} from 
 import Logo from '../../../Content/beard_man_large.png';
 import {Image, ImageBackground} from "react-native";
 import Header from "../../Components/Header/Header";
-import Logo1 from '../../../Content/login.png';
+import Logo1 from '../../../Content/5180199-phone-wallpaper.jpg';
 
 class Login extends Component{
     constructor(props) {
@@ -36,13 +36,13 @@ class Login extends Component{
 
                         <Image source={Logo} style={{width:100,height:100,marginLeft:150,marginTop:50,marginBottom:10}}/>
 
-                        <Item rounded style={{marginBottom:15,marginTop:100}}>
-                            <Input  style={{color:'white'}} placeholder='Enter your email'/>
+                        <Item rounded style={{marginBottom:15,marginTop:70,borderColor:'gray'}}>
+                            <Input  style={{color:'black'}} placeholder='Enter your email'/>
                             <Icon name='checkmark-circle' />
                         </Item>
 
-                        <Item rounded  style={{marginBottom:15}}>
-                            <Input  style={{color:'white'}} placeholder='Enter your password'/>
+                        <Item rounded  style={{marginBottom:35,borderColor:'gray'}}>
+                            <Input  style={{color:'black'}} placeholder='Enter your password'/>
                             <Icon name='checkmark-circle' />
                         </Item>
 
